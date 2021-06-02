@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: sseTest
+  server:
+    cors:
+      enabled: true
